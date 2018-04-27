@@ -1,3 +1,7 @@
+.container {
+  padding: 0.5rem;
+}
+
 .row rect {
   cursor: pointer;
   transition: all ease 0.1s; }
